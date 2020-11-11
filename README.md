@@ -4,7 +4,8 @@
 
 *he/him*
 
-I'm currently working on [tracking ICE raids](https://ai-melts-ice.ml) with deep learning. If you'd be interested in helping grow this project, please reach out. :-)
+I'm currently working on [tracking ICE raids](https://ai-melts-ice.ml) with deep learning. If you'd be interested in helping grow this project, please reach out.
+:-)
 
 
 I'm also cultivating a zoo of reinforcement learning agents who live in the browser.
