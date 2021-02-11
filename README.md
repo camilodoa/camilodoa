@@ -1,25 +1,29 @@
-![lunarbaby](image.png)
+<img src="image.png" width=400></img>
 
 ## [camilo ortiz](https://camilodoa.ml)
 
 *he/him*
 
-I'm currently working on [tracking ICE raids](https://ai-melts-ice.ml) with deep learning. If you'd be interested in helping grow this project, please reach out.
-:-)
+I'm currently working on [tracking ICE raids](https://ai-melts-ice.ml) with deep
+learning.
+If you'd be interested in helping grow this project, please reach out.
 
 
-I'm also cultivating a zoo of reinforcement learning agents who live in the browser.
+I'm working on a set of reinforcement learning agents who live in the browser.
+Their environment/bodies were written with Paper.js, and their RL algorithms
+(q-learning, shallow deep learning) were written from scratch.
+I'm creating a LIF spiking neural network agent and would love some tips.
 
+---
 
-<!-- ### *Q-learning*
+<img src="ra-image.png" width=400></img>
 
-![ra](ra-image.png)
+### [Ra](https://camilodoa.ml/ra)
+*Q-learning agent*
 
-##### [Ra](https://camilodoa.ml/ra)
+---
 
+<img src="dra-image.png" width=400></img>
 
-### *Deep reinforcement learning*
-
-![dra](dra-image.png)
-
-##### [Dra](https://camilodoa.dra) -->
+### [Dra](https://camilodoa.dra)
+*Deep reinforcement learning agent*
