@@ -1,4 +1,4 @@
-<img src="image.png" width=400></img>
+<!-- <img src="image.png" width=400></img> -->
 
 ## [camilo ortiz](https://camilodoa.ml)
 
