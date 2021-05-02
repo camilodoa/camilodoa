@@ -4,14 +4,14 @@
 
 *he/him*
 
-I'm currently working on [tracking ICE raids](https://ai-melts-ice.ml) with deep
+I [track ICE raids](https://ai-melts-ice.ml) with deep
 learning. If you'd be interested in helping grow this project, please reach out.
 
-
-I'm also making on a set of reinforcement learning agents that live in the browser.
-Their bodies are animated with Paper.js, and their RL algorithms
+I also make web-based reinforcement learning agents.
+My agents are animated with Paper.js, and their RL algorithms
 ([q-learning](https://camilodoa.ml/ra), [deep q networks](https://camilodoa.ml/dra)) are implemented from scratch.
-I've been trying to create a LIF spiking neural network agent and would love some tips if you have any!
+
+Currently, I'm exploring the benefits of spiking neural networks in the realm of reinforcement learning.
 
 <!-- ---
 
