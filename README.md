@@ -10,11 +10,8 @@ I'm contributing to [pdq](https://github.com/ProofDrivenQuerying/pdq),
 and I'm a software engineer at JPMorgan Chase & Co.
 
 #### in my projects,
-I [track ICE raids](https://ai-melts-ice.ml) with deep
-learning. If you'd be interested in helping grow this project, please reach out.
-
-I also make web-based reinforcement learning agents.
-My agents are animated with Paper.js, and their RL algorithms
-([q-learning](https://camilodoa.ml/ra), [deep q networks](https://camilodoa.ml/dra)) are implemented from scratch.
+I [predict ICE arrests](https://ai-melts-ice.ml) with deep
+learning, and I make web-based RL agents that employ a variety of learning algorithms
+([q-learning](https://camilodoa.ml/ra), [deep q networks](https://camilodoa.ml/dra)).
 
 
