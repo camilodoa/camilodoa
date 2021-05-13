@@ -7,7 +7,7 @@
 #### right now,
 I'm exploring the benefits of spiking neural networks in the realm of reinforcement learning under LXAI's mentorship program,
 I'm contributing to [pdq](https://github.com/ProofDrivenQuerying/pdq),
-And I'm a software engineer at JPMorgan Chase & Co.
+and I'm a software engineer at JPMorgan Chase & Co.
 
 #### in my projects,
 I [track ICE raids](https://ai-melts-ice.ml) with deep
