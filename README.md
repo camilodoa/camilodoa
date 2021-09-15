@@ -8,10 +8,3 @@
 I'm using spiking neural networks to solve reinforcement learning problems,
 I'm contributing to [pdq](https://github.com/ProofDrivenQuerying/pdq),
 and I'm a software engineer at JPMorgan Chase & Co.
-
-#### in my projects,
-I [predict ICE arrests](https://ai-melts-ice.ml) with deep
-learning, and I make web-based reinforcement learning agents that learn with
-[q-learning](https://camilodoa.ml/ra) and [deep q networks](https://camilodoa.ml/dra).
-
-
