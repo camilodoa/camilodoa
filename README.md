@@ -1,9 +1,7 @@
 <img src="image.png" width=400></img>
 
-## [camilo ortiz](https://camilodoa.ml)
+## [camilo ortiz](https://camilodoa.github.io)
 
 *he/him*
 
-I'm using spiking neural networks to solve reinforcement learning problems,
-I'm contributing to [pdq](https://github.com/ProofDrivenQuerying/pdq),
-and I'm a software engineer at Google.
+I'm working on art that learns and I'm a software engineer at Google.
