@@ -2,6 +2,4 @@
 
 ## [camilo ortiz](https://camilodoa.github.io)
 
-*he/him*
-
 I'm working on art that learns and I'm a software engineer at Google.
